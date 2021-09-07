@@ -1,5 +1,2 @@
-Enter the element of array
-value's of array before negative check
 1 2 4 -1 12 1 7 8 9 10 
-value's of array after negative check
--1 2 4 1 12 1 7 8 9 10 
+2 4 -1 12 1 7 8 9 10 1 
